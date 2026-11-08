@@ -1,7 +1,7 @@
 
 name: Windows 11 + Tailscale + Download.bat
 
-on:
+'on':
   workflow_dispatch:
 
 jobs:
